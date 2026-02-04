@@ -1,0 +1,8 @@
+opencv-python
+numpy
+dlib
+imutils
+scipy
+pygame
+tensorflow
+cmake

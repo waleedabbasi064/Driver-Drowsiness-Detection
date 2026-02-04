@@ -1,0 +1,17 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+
+# Ignore heavy datasets
+Dataset/
+dataset_new/
+data/
+
+# Ignore large files (GitHub rejects files > 100MB)
+shape_predictor_68_face_landmarks.dat
+*.h5
+*.keras
+
+# Ignore generated videos
+*.avi
+*.mp4
